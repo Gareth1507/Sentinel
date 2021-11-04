@@ -14,7 +14,7 @@
             "kind": "Scheduled",
             "apiVersion": "2021-09-01-preview",
             "properties": {
-                "displayName": "MFA disabled for a user",
+                "displayName": "NEW MFA disabled for a user",
                 "description": "Multi-Factor Authentication (MFA) helps prevent credential compromise. This alert identifies when an attempt has been made to diable MFA for a user ",
                 "severity": "Medium",
                 "enabled": true,
